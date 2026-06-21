@@ -154,7 +154,7 @@ function PublicLayout() {
     </div>;
 }
 export default function App() {
-  return <Router>
+  return <Router basename="/Rajput-Cushions">
       <PageTransitionLoader />
       <Routes>
         
